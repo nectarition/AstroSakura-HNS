@@ -2,14 +2,14 @@ const config = {
     siteUrl: 'https://futabastep.net',
     copyright: {
       year: 2024,
-      author: 'えいちせ準備会'
+      author: 'ほのしお準備会'
     },
     event: {
-      name: 'AHSession',
+      name: 'ほのかのしおり',
       date: '2024-07-21',
       place: '名古屋・ポートメッセなごや',
-      content: 'AHSキャラクターオンリー即売会',
-      twitterId: 'jambandsession'
+      content: '凪咲ほのかオンリー即売会',
+      twitterId: 'honokano_shiori'
     },
     shouldShowNectaritionLogo: false
   }
