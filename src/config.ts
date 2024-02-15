@@ -1,5 +1,5 @@
 const config = {
-    siteUrl: 'https://futabastep.net',
+    siteUrl: 'https://hnsdraft.nrsy.jp',
     copyright: {
       year: 2024,
       author: 'ほのしお準備会'
