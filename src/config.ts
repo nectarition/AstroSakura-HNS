@@ -8,7 +8,7 @@ const config = {
       name: 'ほのかのしおり',
       date: '2024-07-21',
       place: '名古屋・ポートメッセなごや',
-      content: '凪咲ほのかオンリー即売会',
+      content: '凪咲ほのかオンリー同人誌即売会',
       twitterId: 'honokano_shiori'
     },
     shouldShowNectaritionLogo: false
