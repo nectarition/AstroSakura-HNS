@@ -1,5 +1,5 @@
 const config = {
-    siteUrl: 'https://hnsdraft.nrsy.jp',
+    siteUrl: 'https://honoshio.com',
     copyright: {
       year: 2024,
       author: 'ほのしお準備会'
