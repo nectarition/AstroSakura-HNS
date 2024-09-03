@@ -6,8 +6,8 @@ const config = {
     },
     event: {
       name: 'ほのかのしおり',
-      date: '2024-07-21',
-      place: '名古屋・ポートメッセなごや',
+      date: '2025-05-04',
+      place: '東京・大田区産業プラザPiO',
       content: '凪咲ほのかオンリー同人誌即売会',
       twitterId: 'honokano_shiori'
     },
